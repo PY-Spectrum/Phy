@@ -8,6 +8,6 @@ This module is entirely built for educational purpose and is not meant to be for
 
 # Other necessities
 
-The 'npm-linker' package provided with it is really necessary for the main 'phy' file to work ,so make sure you have them added to your env variables or have them in the same directory or the folder.
+The 'quadeqn' package provided with it is really necessary for the main 'phy' file to work ,so make sure you have them added to your env variables or have them in the same directory or the folder.
 
 
